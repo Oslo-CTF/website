@@ -1,5 +1,8 @@
 # osloctf-website
 
+## Learn
+https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/
+
 ## Project setup
 ```
 npm install
